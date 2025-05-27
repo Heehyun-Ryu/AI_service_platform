@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+openai-whisper
+soundfile
+pyngrok
+python-multipart
+ultralytics
+opencv-python
+pillow
+numpy
+google-api-python-client
+mediapipe
+opencv-python-headless
